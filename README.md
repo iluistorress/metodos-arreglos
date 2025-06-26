@@ -1,4 +1,3 @@
-﻿# Métodos de Arreglos en JavaScript
 # Proyecto: Métodos de Arreglos en JavaScript
 
 ## Objetivo
